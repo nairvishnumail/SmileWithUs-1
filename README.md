@@ -1,4 +1,3 @@
-# SmileWithUs
 ## Inspiration
 
 We were inspired to create this project based on our own experiences. We attend a very competitive school, where college aspirations are put before everything else. Though mental health is talked about at our school, many students don't feel comfortable talking with others about mental health & they don't know where they could quickly destress. The result? Our school has the highest suicide rate in our district, maybe even the bay area. What we need is a quick, truly anonymous way that students could take care of their mental well-being; the main problem we tried to address. We've all struggled with mental health and we wanted to create something to help both ourselves and each other. 
@@ -69,3 +68,5 @@ In the near future, we hope to improve our web application by including a login 
 
 ## Final Thoughts
 "One life. Protect it." Mental health is a real issue and our website is a means to take care of it. The amount of work and effort we put into this just comes to show how seriously we and others take it. So don't feel ashamed to talk about your mental health to other trusted individuals and safeguard your mental well-being.
+
+## Demo Video: https://www.youtube.com/watch?v=BTPJcOaU7Pg 
