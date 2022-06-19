@@ -5,7 +5,7 @@ from django.http import HttpResponse
 from django.template import loader
 import paralleldots
 
-paralleldots.set_api_key("PARALLEL_BOUNDS_API_KEY")
+paralleldots.set_api_key("KOMPREHEND_API_KEY")
 
 # Create your views here.
 def index(request):
