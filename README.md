@@ -68,5 +68,3 @@ In the near future, we hope to improve our web application by including a login 
 
 ## Final Thoughts
 "One life. Protect it." Mental health is a real issue and our website is a means to take care of it. The amount of work and effort we put into this just comes to show how seriously we and others take it. So don't feel ashamed to talk about your mental health to other trusted individuals and safeguard your mental well-being.
-
-## Demo Video: https://www.youtube.com/watch?v=BTPJcOaU7Pg 
