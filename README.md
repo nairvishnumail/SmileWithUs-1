@@ -30,7 +30,7 @@ _Proven that the color of blue and sea green (as the color of the breathing ball
 - Has a 2-minute timer for breathing and then redirects the user to the last page
 
 **Final Page (4th page)**
-- 1st picture I used was the earth from a space perspective because, after receiving that feeling of finally being mentally free with the help of the breathing, the earth helps reinforce that same idea (mainly bc its so big and it proves to show that there is so much freedom and opportunities to be achieved)
+- 1st picture I used was the earth from a space perspective because, after receiving that feeling of finally being mentally free with the help of the breathing, the earth helps reinforce that same idea (mainly because its so big and it proves to show that there is so much freedom and opportunities to be achieved)
 - 2nd picture as you scroll down is that of a sunny sidewalk path, where we put the videos and the songs
 -The picture helps stand with the idea that we're giving the user stuff to help them along the path to wellness
 
