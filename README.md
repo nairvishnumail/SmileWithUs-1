@@ -1,3 +1,6 @@
+## Walkthrough
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=R0CRbCetZ6w))
+
 ## Inspiration
 
 We were inspired to create this project based on our own experiences. We attend a very competitive school, where college aspirations are put before everything else. Though mental health is talked about at our school, many students don't feel comfortable talking with others about mental health & they don't know where they could quickly destress. The result? Our school has the highest suicide rate in our district, maybe even the bay area. What we need is a quick, truly anonymous way that students could take care of their mental well-being; the main problem we tried to address. We've all struggled with mental health and we wanted to create something to help both ourselves and each other. 
